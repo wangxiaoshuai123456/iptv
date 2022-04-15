@@ -1,0 +1,156 @@
+2022-04-06 15:00:46 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 警告
+2022-04-06 15:00:46 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 提示
+2022-04-06 15:00:46 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 提示
+2022-04-06 15:00:46 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:00:46 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:00:46 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:04:32 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 警告
+2022-04-06 15:04:32 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 提示
+2022-04-06 15:04:32 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 提示
+2022-04-06 15:04:32 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:04:32 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:04:32 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:05:08 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 警告
+2022-04-06 15:05:08 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 提示
+2022-04-06 15:05:08 wsp D:\pycharm\iptv\api\baseApi.py 53 INFO 错误
+2022-04-06 15:07:52 wsp D:\pycharm\iptv\api\baseApi.py 54 INFO 警告
+2022-04-06 15:07:52 wsp D:\pycharm\iptv\api\baseApi.py 54 INFO 提示
+2022-04-06 15:07:52 wsp D:\pycharm\iptv\api\baseApi.py 54 INFO 错误
+2022-04-06 15:10:31 wsp D:\pycharm\iptv\api\baseApi.py 60 INFO info日志
+2022-04-06 15:10:31 wsp D:\pycharm\iptv\api\baseApi.py 62 ERROR error日志
+2022-04-06 15:10:31 wsp D:\pycharm\iptv\api\baseApi.py 63 WARNING warning日志
+2022-04-06 15:10:31 wsp D:\pycharm\iptv\api\baseApi.py 64 CRITICAL critical日志
+2022-04-06 15:11:07 wsp D:\pycharm\iptv\api\baseApi.py 63 ERROR error日志
+2022-04-06 15:11:07 wsp D:\pycharm\iptv\api\baseApi.py 64 WARNING warning日志
+2022-04-06 15:11:07 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:11:27 wsp D:\pycharm\iptv\api\baseApi.py 63 ERROR error日志
+2022-04-06 15:11:27 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:11:39 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:28:07 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:29:08 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:29:39 wsp D:\pycharm\iptv\api\baseApi.py 61 INFO info日志
+2022-04-06 15:29:39 wsp D:\pycharm\iptv\api\baseApi.py 62 DEBUG debug日志
+2022-04-06 15:29:39 wsp D:\pycharm\iptv\api\baseApi.py 63 ERROR error日志
+2022-04-06 15:29:39 wsp D:\pycharm\iptv\api\baseApi.py 64 WARNING warning日志
+2022-04-06 15:29:39 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:29:46 wsp D:\pycharm\iptv\pages\LoginPage.py 27 DEBUG username:administrator, pwd:123456
+2022-04-06 15:29:50 wsp D:\pycharm\iptv\pages\LoginPage.py 46 INFO 登录成功
+2022-04-06 15:29:50 wsp D:\pycharm\iptv\pages\LoginPage.py 60 DEBUG cookie 
+2022-04-06 15:30:44 wsp D:\pycharm\iptv\api\baseApi.py 61 INFO info日志
+2022-04-06 15:30:44 wsp D:\pycharm\iptv\api\baseApi.py 62 DEBUG debug日志
+2022-04-06 15:30:44 wsp D:\pycharm\iptv\api\baseApi.py 63 ERROR error日志
+2022-04-06 15:30:44 wsp D:\pycharm\iptv\api\baseApi.py 64 WARNING warning日志
+2022-04-06 15:30:44 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:30:48 wsp D:\pycharm\iptv\api\baseApi.py 61 INFO info日志
+2022-04-06 15:30:48 wsp D:\pycharm\iptv\api\baseApi.py 62 DEBUG debug日志
+2022-04-06 15:30:48 wsp D:\pycharm\iptv\api\baseApi.py 63 ERROR error日志
+2022-04-06 15:30:48 wsp D:\pycharm\iptv\api\baseApi.py 64 WARNING warning日志
+2022-04-06 15:30:48 wsp D:\pycharm\iptv\api\baseApi.py 65 CRITICAL critical日志
+2022-04-06 15:30:54 wsp D:\pycharm\iptv\pages\LoginPage.py 27 DEBUG username:administrator, pwd:123456
+2022-04-06 15:30:58 wsp D:\pycharm\iptv\pages\LoginPage.py 46 INFO 登录成功
+2022-04-06 15:30:58 wsp D:\pycharm\iptv\pages\LoginPage.py 60 DEBUG cookie {'name': 'PHPSESSID', 'value': 'p5rv8lr3b5d72h378ki6g9gpj1', 'path': '/', 'domain': '192.168.100.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-06 15:31:58 wsp D:\pycharm\iptv\pages\LoginPage.py 27 DEBUG username:administrator, pwd:123456
+2022-04-06 15:32:02 wsp D:\pycharm\iptv\pages\LoginPage.py 46 INFO 登录成功
+2022-04-06 15:32:02 wsp D:\pycharm\iptv\pages\LoginPage.py 60 DEBUG cookie {'name': 'PHPSESSID', 'value': '652j7uuvn8n0h7idm3emq16g81', 'path': '/', 'domain': '192.168.100.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-06 16:01:06 wsp D:\pycharm\iptv\main.py 13 INFO start...
+2022-04-06 16:01:06 wsp D:\pycharm\iptv\pages\LoginPage.py 27 DEBUG username:administrator, pwd:123456
+2022-04-06 16:01:11 wsp D:\pycharm\iptv\pages\LoginPage.py 46 INFO 登录成功
+2022-04-06 16:01:11 wsp D:\pycharm\iptv\pages\LoginPage.py 60 DEBUG cookie {'name': 'PHPSESSID', 'value': 't7sdiovi9u3mcktp2ds1dt2dv2', 'path': '/', 'domain': '192.168.100.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-06 16:01:26 wsp \iptv\main.pyD:\pycharm 30 INFO end...
+2022-04-06 16:07:08 wsp D:\pycharm\iptv\main.py 13 INFO start...
+2022-04-06 16:07:08 wsp D:\pycharm\iptv\pages\LoginPage.py 27 DEBUG username:administrator, pwd:123456
+2022-04-06 16:07:11 wsp D:\pycharm\iptv\pages\LoginPage.py 46 INFO 登录成功
+2022-04-06 16:07:11 wsp D:\pycharm\iptv\pages\LoginPage.py 60 DEBUG cookie {'name': 'PHPSESSID', 'value': '7mqne8upc9vk47bf5s55eerqn2', 'path': '/', 'domain': '192.168.100.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-06 16:07:52 wsp D:\pycharm\iptv\pages\ServerPage.py 89 INFO 重启 北清服务: Success
+2022-04-06 16:07:52 wsp D:\pycharm\iptv\pages\ServerPage.py 89 INFO 重启 录像服务: Success
+2022-04-06 16:07:52 wsp D:\pycharm\iptv\pages\ServerPage.py 89 INFO 重启 外域服务: Success
+2022-04-06 16:07:52 wsp D:\pycharm\iptv\pages\ServerPage.py 89 INFO 重启 中心服务: Success
+2022-04-06 16:07:52 wsp D:\pycharm\iptv\pages\ServerPage.py 89 INFO 重启 设备服务: Success
+2022-04-06 16:07:52 wsp D:\pycharm\iptv\pages\ServerPage.py 89 INFO 重启 媒体服务: Success
+2022-04-06 16:08:02 wsp D:\pycharm\iptv\pages\PersonInfoPage.py 33 INFO 退出登录: Success
+2022-04-06 16:08:02 wsp D:\pycharm\iptv\main.py 30 INFO end...
+2022-04-06 16:22:03 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 6 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:25:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 6 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:25:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 9 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:25:47 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 6 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:25:47 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 9 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:27:01 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 6 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:27:01 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 9 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:32:31 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:32:31 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:34:13 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:34:13 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:34:32 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:34:32 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:35:49 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:35:49 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:37:12 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:37:12 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:37:22 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:37:22 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:39:39 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:39:39 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:39:54 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:39:54 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:42:42 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:42:42 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:42:48 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:42:48 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:45:13 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:45:13 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:45:29 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:45:29 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:47:17 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:47:17 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:49:52 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:49:52 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:50:22 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:50:22 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:51:55 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:51:55 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:55:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:55:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 16:56:42 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 16:56:42 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:00:10 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:00:10 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:00:35 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:00:35 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:02:17 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:02:17 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:03:03 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:03:03 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:03:28 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:03:28 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:03:51 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:03:51 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:03:54 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:03:54 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:04:07 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:04:07 wsp D:/pycharm/iptv/test_case/stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:04:36 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:04:36 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:05:32 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:05:32 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:05:50 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:05:50 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:07:37 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:07:37 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:09:40 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 7 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:09:40 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:09:40 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 21 INFO []
+2022-04-06 17:10:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 8 INFO ['baidutest.py', 'stand_lib_test.py', 'testCaseBase.py', 'testCaseEnableServerPage.py', 'testCaseLoginPage.py', 'testCasePersonInfoPage.py', 'urllib_test.py']
+2022-04-06 17:10:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 11 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:10:14 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 14 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:11:41 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 10 INFO ['baidutest.py', 'stand_lib_test.py', 'testCaseBase.py', 'testCaseEnableServerPage.py', 'testCaseLoginPage.py', 'testCasePersonInfoPage.py', 'urllib_test.py']
+2022-04-06 17:11:41 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 11 INFO ['D:/pycharm/iptv/test_case/stand_lib_test.py']
+2022-04-06 17:11:41 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 14 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:11:41 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 17 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:13:47 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 12 INFO ['baidutest.py', 'stand_lib_test.py', 'testCaseBase.py', 'testCaseEnableServerPage.py', 'testCaseLoginPage.py', 'testCasePersonInfoPage.py', 'urllib_test.py']
+2022-04-06 17:13:47 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 13 INFO ['D:/pycharm/iptv/test_case/stand_lib_test.py']
+2022-04-06 17:13:47 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 17 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:13:47 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 20 INFO cwd_1: D:\pycharm\iptv\report
+2022-04-06 17:14:02 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 12 INFO ['baidutest.py', 'stand_lib_test.py', 'testCaseBase.py', 'testCaseEnableServerPage.py', 'testCaseLoginPage.py', 'testCasePersonInfoPage.py', 'urllib_test.py']
+2022-04-06 17:14:02 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 13 INFO ['D:/pycharm/iptv/test_case/stand_lib_test.py']
+2022-04-06 17:14:02 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 17 INFO cwd: D:\pycharm\iptv\test_case
+2022-04-06 17:14:02 wsp D:\pycharm\iptv\test_case\stand_lib_test.py 20 INFO cwd_1: D:\pycharm\iptv\report
