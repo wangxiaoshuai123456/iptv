@@ -1,0 +1,20 @@
+运行以下命令，从 ./allure-results结果生成 html格式的报告至目录allure-report
+allure generate ./allure-results -o  allure-report --clean
+
+
+1 Pytest 为何打印不出来信息 print logging
+已测试 可以打印出来
+
+2 Pytest 为何无法停止在断点
+conftest.py 中的fixture用法不对，导致函数开始调用时，立马崩溃失败
+
+3 Pytest 为何获取不到token cookie
+conftest.py 中的fixture用法不对，已解决
+
+4 Pytest 为何感觉启用禁用服务的py文件，先于登录文件执行？ASCII码排序无效？
+已测试，先执行了启用禁用服务，即便是指定ASCII码也不行,
+已知道原因，test文件,是按照ASCII码值进行先后执行的，但是如果中间某一个文件的函数标记了order=1,2,3,则该文件先执行
+
+5 cookie token 取得，是否正确
+
+6 cookie token add方式，是否正确

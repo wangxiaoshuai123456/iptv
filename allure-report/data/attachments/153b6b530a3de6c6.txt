@@ -1,0 +1,3 @@
+[35mDEBUG   [0m wsp:conftest.py:35 get global_cookie:{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+[35mDEBUG   [0m wsp:test_02_EnableServerPage.py:47 
+cookie :{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}

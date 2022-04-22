@@ -4,15 +4,17 @@ from api.baseApi import log
 from selenium import webdriver
 
 
-class PageBase(unittest.TestCase):
+class PageBase:
     """所有WEB页面基类"""
     Firefox_driver = webdriver.Firefox()
     logger = log()
 
+
+
     def __init__(self):
         self.driver = PageBase.Firefox_driver
         # 获取百度URL
-        self.baseurl = "http://192.168.100.123"
+        self.baseurl = "http://192.168.1.123"
 
     def setUp(self) -> None:
         # 获取firefox驱动
@@ -25,7 +27,7 @@ class PageBase(unittest.TestCase):
         self.driver.implicitly_wait(30)
 
         # # 获取百度URL
-        # self.baseurl = "http://192.168.100.123"
+        # self.baseurl = "http://192.168.1.123"
 
     def tearDown(self) -> None:
         sleep(1)

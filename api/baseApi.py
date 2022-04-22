@@ -39,7 +39,7 @@ def log():
     logger.setLevel(logging.DEBUG)
 
     if not logger.handlers:
-        fileHander = logging.FileHandler('D:/pycharm/iptv/report/log.txt', encoding='utf-8')
+        fileHander = logging.FileHandler('log.txt', encoding='utf-8')
         streamHandler = logging.StreamHandler()
 
         fmt = logging.Formatter('%(asctime)s %(name)s %(pathname)s %(lineno)s %(levelname)s %(message)s', \

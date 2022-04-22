@@ -1,0 +1,242 @@
+2022-04-20 20:27:55 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 65 DEBUG cookie {'name': 'PHPSESSID', 'value': 'nittfivknj588jh3q4do8uf957', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 20:58:30 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'm91t16ovbgj2i6lg2nl1fsntl6', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 20:58:34 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'm91t16ovbgj2i6lg2nl1fsntl6', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 20:58:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'm91t16ovbgj2i6lg2nl1fsntl6', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:03:49 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'n92p3c6cui5mjeio1rqo9in0u1', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:08:01 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': '5frrnm1dhnq69bo5l6rcr40ud0', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:08:01 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 68 DEBUG get token:a74e7398f084da4b96525251d0dbb316
+2022-04-20 22:10:08 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'v1ks1ad74qiklc2rbnplgnmui1', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:10:08 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 68 DEBUG get token:492782674c4759945011c6f6ee308616
+2022-04-20 22:12:52 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 59 DEBUG cookie: {'name': 'PHPSESSID', 'value': '4sklvhmpp85hmefdtsqdpm51b4', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:12:52 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 68 DEBUG get token:d86336545f62a494315fcd90376576f9
+2022-04-20 22:20:56 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'ecp6te7njh5sm2hal83kqf7d15', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:20:56 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:087ca4316466d15f35ec52c91059d710
+2022-04-20 22:21:22 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'np05i57iuhudr92ngjp3u7jcj0', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:21:22 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:b1898fce76dffdb7af731df832eaba51
+2022-04-20 22:28:02 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'bevabbce22u07dlbd2h5u98hn6', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-20 22:28:02 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:afaf0d892b7eb5f1453e11833a0380b5
+2022-04-21 15:24:55 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'llpp7upgntdl1k81ddlu801ir7', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 15:24:55 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:da8a591f2ab835fd4d503fae161bb9a2
+2022-04-21 16:32:13 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'd1t8att36g1v30agm07hi72oq4', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 16:32:13 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:a742ea7e441fb568f6749a215e74fff1
+2022-04-21 16:45:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '84bnu77r4471k0a4ai31s5ati4', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 16:45:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:2477edbb5470bc7e1da7aed509dc58dc
+2022-04-21 16:48:40 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '3or4fdsgdgp8lsiurjtnrf04n0', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 16:48:42 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:f02497a9403a8f2bb3ee12727269accb
+2022-04-21 16:50:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '5u4gfb1bm57ndtkj8tg4rnjrb1', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 16:50:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:552e00ff4023075179e5eae34508d8a8
+2022-04-21 16:56:19 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'suc2ccdfr5kinabsh0ui8n9nc1', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 16:56:19 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:cf74569afb27b1ec9becb84f4d24602f
+2022-04-21 16:58:52 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '0b9aquvi4bds8jn0lhb0p5dus5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 16:58:52 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:d5254bc47240be030b3b5bd432319e8b
+2022-04-21 17:00:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'j9f3najh2ccdhc91a342f9k0i0', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 17:00:37 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:b1115c0263ad0373c3ad33194c533363
+2022-04-21 17:19:26 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'mc2tus0keh00tujsm104qt1ef3', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 17:19:26 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:d2339f15aea81bf4ef48dd0320fb33af
+2022-04-21 17:19:26 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 58 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000017AD0488280>
+  token:<function get_global_token.<locals>._get_global_token at 0x0000017AD0488790>
+2022-04-21 17:19:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 58 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000017AD0488280>
+  token:<function get_global_token.<locals>._get_global_token at 0x0000017AD0488790>
+2022-04-21 17:20:10 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 58 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000017AD0488280>
+  token:<function get_global_token.<locals>._get_global_token at 0x0000017AD0488790>
+2022-04-21 20:12:35 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'kl2jpnq481rqcdol53nlo0n1e7', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:12:35 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:206eec9acdbd1ae69fca8953b8b1aa12
+2022-04-21 20:12:35 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 46 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x00000171BAD58280>
+2022-04-21 20:12:35 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 53 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x00000171BAD58790>
+2022-04-21 20:12:35 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 60 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x00000171BAD58280>
+  token:<function get_global_token.<locals>._get_global_token at 0x00000171BAD58790>
+2022-04-21 20:12:57 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 60 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x00000171BAD58280>
+  token:<function get_global_token.<locals>._get_global_token at 0x00000171BAD58790>
+2022-04-21 20:13:19 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 60 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x00000171BAD58280>
+  token:<function get_global_token.<locals>._get_global_token at 0x00000171BAD58790>
+2022-04-21 20:19:47 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'u4kjh22ofn49bp56bnr0devpv5', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:19:47 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:ef0a06a2ae9738d8cf5a5b08f3fa1a6d
+2022-04-21 20:20:54 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 46 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000023AB5DE1FC0>
+2022-04-21 20:24:19 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '1uus9iioh83d8m1uk8n6hnjlo2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:24:19 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:d87db7fec30cd84c8bb896547bc451e7
+2022-04-21 20:25:51 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 46 DEBUG 
+cookie :{}
+2022-04-21 20:25:57 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 46 DEBUG 
+cookie :{}
+2022-04-21 20:26:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 46 DEBUG 
+cookie :{}
+2022-04-21 20:26:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 53 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x00000267DA5EE560>
+2022-04-21 20:29:27 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'd900ar9mvspf63sojsta50ai11', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:29:27 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:2a22176e6200dd1c5bd66c784bef466c
+2022-04-21 20:30:19 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'ck81tgej2ani8fjjhjbspubk20', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:30:19 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:721773e2425062cdda0aa7259f7c3e84
+2022-04-21 20:32:37 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x000001F4B9622560>
+2022-04-21 20:32:37 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{}
+  token:<function get_global_token.<locals>._get_global_token at 0x000001F4B9622560>
+2022-04-21 20:33:24 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '1agfi9kpqn1p592d791qt4gko1', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:33:24 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:4792a5637f58f9eb182b9a92a2ddb506
+2022-04-21 20:42:01 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 's9uhst1khjkv95kehke229ma24', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:42:01 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:68fb2447e0e542996bfbcbfa0b428fd6
+2022-04-21 20:42:07 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x000002B6206D3520>
+2022-04-21 20:42:07 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{}
+  token:<function get_global_token.<locals>._get_global_token at 0x000002B6206D3520>
+2022-04-21 20:42:27 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{}
+  token:<function get_global_token.<locals>._get_global_token at 0x000002B6206D3520>
+2022-04-21 20:42:50 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{}
+  token:<function get_global_token.<locals>._get_global_token at 0x000002B6206D3520>
+2022-04-21 20:45:45 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'v03s209dsq9h6ngbh509f4v5t4', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:45:45 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:1d602c6f640f1ac37d32e3995a545786
+2022-04-21 20:45:45 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000002BB218C8280>
+2022-04-21 20:45:45 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x000002BB218C8790>
+2022-04-21 20:45:45 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000002BB218C8280>
+  token:<function get_global_token.<locals>._get_global_token at 0x000002BB218C8790>
+2022-04-21 20:46:06 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000002BB218C8280>
+  token:<function get_global_token.<locals>._get_global_token at 0x000002BB218C8790>
+2022-04-21 20:46:27 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000002BB218C8280>
+  token:<function get_global_token.<locals>._get_global_token at 0x000002BB218C8790>
+2022-04-21 20:48:33 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '3lca9b1opnvhuumifcm9sob7o0', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:48:33 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:b5b67e76a0e174dce8c6dfca12a81927
+2022-04-21 20:48:33 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000001DF229B0280>
+2022-04-21 20:48:33 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x000001DF229B0790>
+2022-04-21 20:48:33 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000001DF229B0280>
+  token:<function get_global_token.<locals>._get_global_token at 0x000001DF229B0790>
+2022-04-21 20:52:31 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': 'obhev7du5tqmkcn260nker1e02', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:58:18 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '6g14lgr2i3bon60sa02i28n7u3', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 20:58:18 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 67 DEBUG get token:e9c0a8e32243e31273f08a217431b99b
+2022-04-21 20:58:18 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000001A4665AFD00>
+2022-04-21 20:58:18 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x000001A4665EC280>
+2022-04-21 20:58:18 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000001A4665AFD00>
+  token:<function get_global_token.<locals>._get_global_token at 0x000001A4665EC280>
+2022-04-21 21:01:31 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '720u2dohpumeo0f916cgusl5k2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 21:07:36 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 58 DEBUG cookie: {'name': 'PHPSESSID', 'value': '5er7aaa40ot3ibnuosvqvbqad2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:01:25 wsp D:\pycharm\代码\iptv\test_case\conftest.py 67 DEBUG get global_token:18ed4b7f621edeefcd6d467494345bdb
+2022-04-21 22:01:25 wsp D:\pycharm\代码\iptv\test_case\test_01_LoginPage.py 56 DEBUG get token:18ed4b7f621edeefcd6d467494345bdb
+2022-04-21 22:01:26 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000026271D5A440>
+2022-04-21 22:09:29 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000015E07239750>
+2022-04-21 22:09:32 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x0000015E078F6680>
+2022-04-21 22:09:35 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000015E07239750>
+  token:<function get_global_token.<locals>._get_global_token at 0x0000015E078F6680>
+2022-04-21 22:18:05 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x00000152712EA170>
+2022-04-21 22:18:05 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x00000152712EA680>
+2022-04-21 22:18:05 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x00000152712EA170>
+  token:<function get_global_token.<locals>._get_global_token at 0x00000152712EA680>
+2022-04-21 22:24:22 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': 'a1uag1otdvv8mbabstf3qa32b3', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:24:22 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:95beb5a1f0b2b32618da28f2ce4c3783
+2022-04-21 22:24:22 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000021057E5B130>
+2022-04-21 22:24:22 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x0000021057E5BBE0>
+2022-04-21 22:24:22 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000021057E5B130>
+  token:<function get_global_token.<locals>._get_global_token at 0x0000021057E5BBE0>
+2022-04-21 22:24:50 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': 'sqlom81p8tpgcomgl0f6ls4jt7', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:24:50 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:e8d441b89f51dbac3bb5b07df5c408ae
+2022-04-21 22:24:50 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000026BF27AB010>
+2022-04-21 22:24:50 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:<function get_global_token.<locals>._get_global_token at 0x0000026BF27ABB50>
+2022-04-21 22:24:50 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x0000026BF27AB010>
+  token:<function get_global_token.<locals>._get_global_token at 0x0000026BF27ABB50>
+2022-04-21 22:27:48 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': 'j39sf23hmdlg7fob11ko6km525', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:28:49 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:ecf5a7e9696d4fdf84168a8108b25749
+2022-04-21 22:28:57 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :<function get_global_cookie.<locals>._get_global_cookie at 0x000001F1CF7951B0>
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '49naj570c6reugl4c94ua95hf2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:5c9a8b0e0cb85fb0491ffd30b8e5903c
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '49naj570c6reugl4c94ua95hf2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': '49naj570c6reugl4c94ua95hf2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:5c9a8b0e0cb85fb0491ffd30b8e5903c
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:5c9a8b0e0cb85fb0491ffd30b8e5903c
+2022-04-21 22:33:32 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': '49naj570c6reugl4c94ua95hf2', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+  token:5c9a8b0e0cb85fb0491ffd30b8e5903c
+2022-04-21 22:34:20 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 北清服务: Success
+2022-04-21 22:34:20 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 录像服务: Success
+2022-04-21 22:34:20 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 外域服务: Success
+2022-04-21 22:34:20 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 中心服务: Success
+2022-04-21 22:34:20 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 设备服务: Success
+2022-04-21 22:34:20 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 媒体服务: Success
+2022-04-21 22:36:30 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': 'sjq9hkq6ckt20cninugk3ummg6', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:36:30 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:fb999dfd061e0804fbb0957df67f9cd0
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '7hrj273unk63cnrpd6c9m7upt3', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:8bf78e981ab718e08e8c70beab621b7d
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\conftest.py 45 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '7hrj273unk63cnrpd6c9m7upt3', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': '7hrj273unk63cnrpd6c9m7upt3', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\conftest.py 69 DEBUG get global_token:8bf78e981ab718e08e8c70beab621b7d
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:8bf78e981ab718e08e8c70beab621b7d
+2022-04-21 22:38:17 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': '7hrj273unk63cnrpd6c9m7upt3', 'path': '/', 'domain': '192.168.1.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+  token:8bf78e981ab718e08e8c70beab621b7d
+2022-04-21 22:39:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 北清服务: Success
+2022-04-21 22:39:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 录像服务: Success
+2022-04-21 22:39:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 外域服务: Success
+2022-04-21 22:39:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 中心服务: Success
+2022-04-21 22:39:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 设备服务: Success
+2022-04-21 22:39:01 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 媒体服务: Success
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\conftest.py 35 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\conftest.py 42 DEBUG get global_token:0452c10d9c5d9eb3986a68fd8353ee49
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\conftest.py 35 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\conftest.py 42 DEBUG get global_token:0452c10d9c5d9eb3986a68fd8353ee49
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:0452c10d9c5d9eb3986a68fd8353ee49
+2022-04-22 10:14:42 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 61 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+  token:0452c10d9c5d9eb3986a68fd8353ee49
+2022-04-22 10:15:31 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 北清服务: Success
+2022-04-22 10:15:31 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 录像服务: Success
+2022-04-22 10:15:31 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 外域服务: Success
+2022-04-22 10:15:31 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 中心服务: Success
+2022-04-22 10:15:31 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 设备服务: Success
+2022-04-22 10:15:31 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 媒体服务: Success
+2022-04-22 10:59:03 wsp D:\pycharm\代码\iptv\test_case\conftest.py 35 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': 'q4lcnm1g9742tr4btsqdu9qkg0', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 10:59:03 wsp D:\pycharm\代码\iptv\test_case\conftest.py 42 DEBUG get global_token:26a7ed07b9318daaffb8c5039a1a5caa
+2022-04-22 10:59:03 wsp D:\pycharm\代码\iptv\test_case\conftest.py 35 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': 'q4lcnm1g9742tr4btsqdu9qkg0', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 10:59:03 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 47 DEBUG 
+cookie :{'name': 'PHPSESSID', 'value': 'q4lcnm1g9742tr4btsqdu9qkg0', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 10:59:03 wsp D:\pycharm\代码\iptv\test_case\conftest.py 42 DEBUG get global_token:26a7ed07b9318daaffb8c5039a1a5caa
+2022-04-22 10:59:03 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 54 DEBUG 
+ token:26a7ed07b9318daaffb8c5039a1a5caa
+2022-04-22 10:59:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 北清服务: Success
+2022-04-22 10:59:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 录像服务: Success
+2022-04-22 10:59:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 外域服务: Success
+2022-04-22 10:59:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 中心服务: Success
+2022-04-22 10:59:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 设备服务: Success
+2022-04-22 10:59:46 wsp D:\pycharm\代码\iptv\test_case\test_02_EnableServerPage.py 110 INFO 重启 媒体服务: Success
+2022-04-22 11:04:07 wsp D:\pycharm\代码\iptv\test_case\conftest.py 35 DEBUG get global_cookie:{'name': 'PHPSESSID', 'value': '4h21b1ug97t2n1liqlb3crnnj0', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+2022-04-22 11:04:07 wsp D:\pycharm\代码\iptv\test_case\conftest.py 42 DEBUG get global_token:e328cd969ba306089f16debadab7ac2d

@@ -1,0 +1,9 @@
+[35mDEBUG   [0m wsp:test_02_EnableServerPage.py:61 
+cookie :{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
+  token:0452c10d9c5d9eb3986a68fd8353ee49
+[32mINFO    [0m wsp:test_02_EnableServerPage.py:110 重启 北清服务: Success
+[32mINFO    [0m wsp:test_02_EnableServerPage.py:110 重启 录像服务: Success
+[32mINFO    [0m wsp:test_02_EnableServerPage.py:110 重启 外域服务: Success
+[32mINFO    [0m wsp:test_02_EnableServerPage.py:110 重启 中心服务: Success
+[32mINFO    [0m wsp:test_02_EnableServerPage.py:110 重启 设备服务: Success
+[32mINFO    [0m wsp:test_02_EnableServerPage.py:110 重启 媒体服务: Success

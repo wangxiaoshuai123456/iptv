@@ -1,0 +1,109 @@
+{
+  "uid" : "58f5bc8ced6cc706",
+  "name" : "test_enable_server",
+  "fullName" : "test_case.test_02_EnableServerPage.TestEnableServerPage#test_enable_server",
+  "historyId" : "d91a585281b9212dea4dcaba59dd773b",
+  "time" : {
+    "start" : 1650593682415,
+    "stop" : 1650593731446,
+    "duration" : 49031
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "manager_brower",
+    "time" : {
+      "start" : 1650593676965,
+      "stop" : 1650593676972,
+      "duration" : 7
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cb60a78365f9fb43",
+      "name" : "log",
+      "source" : "cb60a78365f9fb43.txt",
+      "type" : "text/plain",
+      "size" : 758
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "manager_brower::0",
+    "time" : {
+      "start" : 1650593731448,
+      "stop" : 1650593733591,
+      "duration" : 2143
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=6)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_EnableServerPage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEnableServerPage"
+  }, {
+    "name" : "host",
+    "value" : "USER-20220104VG"
+  }, {
+    "name" : "thread",
+    "value" : "12332-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_02_EnableServerPage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=6)" ]
+  },
+  "source" : "58f5bc8ced6cc706.json",
+  "parameterValues" : [ ]
+}

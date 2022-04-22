@@ -1,0 +1,101 @@
+{
+  "uid" : "44f873ff4bd64ac2",
+  "name" : "test_logining[administrator-123456]",
+  "fullName" : "test_case.test_01_LoginPage.TestLoginPage#test_logining",
+  "historyId" : "7d53c8c0da723e0b6a50ba8f2e870faa",
+  "time" : {
+    "start" : 1650593676974,
+    "stop" : 1650593682328,
+    "duration" : 5354
+  },
+  "description" : "测试登录",
+  "descriptionHtml" : "<p>测试登录</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "manager_brower",
+    "time" : {
+      "start" : 1650593676965,
+      "stop" : 1650593676972,
+      "duration" : 7
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "manager_brower::0",
+    "time" : {
+      "start" : 1650593731448,
+      "stop" : 1650593733591,
+      "duration" : 2143
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_LoginPage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLoginPage"
+  }, {
+    "name" : "host",
+    "value" : "USER-20220104VG"
+  }, {
+    "name" : "thread",
+    "value" : "12332-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_01_LoginPage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "pwd",
+    "value" : "'123456'"
+  }, {
+    "name" : "username",
+    "value" : "'administrator'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "44f873ff4bd64ac2.json",
+  "parameterValues" : [ "'123456'", "'administrator'" ]
+}

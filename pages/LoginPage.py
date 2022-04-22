@@ -13,7 +13,7 @@ class LoginPage(PageBase):
         super().__init__()
         pass
 
-    def loginWeb(self, userinfo):
+    def loginWeb(self, username, pwd):
         """登录"""
 
         # 打开数据配置文件,读取配置信息
@@ -21,8 +21,8 @@ class LoginPage(PageBase):
 
         # for 遍历用户信息
         # for userinfo in cfg_info:
-        self.userName = userinfo['username']
-        self.passWord = userinfo['pwd']
+        self.userName = username
+        self.passWord = pwd
         # print('username:%s, pwd:%s' % (self.userName, self.passWord))
         self.logger.debug('username:%s, pwd:%s' % (self.userName, self.passWord))
 
@@ -66,5 +66,3 @@ class LoginPage(PageBase):
         self.logger.debug('token', token)
         return token
 
-
-    

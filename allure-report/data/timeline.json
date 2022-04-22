@@ -1,0 +1,98 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "USER-20220104VG",
+    "children" : [ {
+      "name" : "12332-MainThread",
+      "children" : [ {
+        "name" : "test_enable_server",
+        "uid" : "58f5bc8ced6cc706",
+        "parentUid" : "cf1199c0159e0937894be636b221263f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650593682415,
+          "stop" : 1650593731446,
+          "duration" : 49031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_token",
+        "uid" : "4ccf7f03374eb74",
+        "parentUid" : "cf1199c0159e0937894be636b221263f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650593682398,
+          "stop" : 1650593682399,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logining[administrator-123456]",
+        "uid" : "44f873ff4bd64ac2",
+        "parentUid" : "cf1199c0159e0937894be636b221263f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650593676974,
+          "stop" : 1650593682328,
+          "duration" : 5354
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'123456'", "'administrator'" ]
+      }, {
+        "name" : "test_save_token_cookie",
+        "uid" : "d7df1e48fd5128eb",
+        "parentUid" : "cf1199c0159e0937894be636b221263f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650593682354,
+          "stop" : 1650593682355,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_cookie",
+        "uid" : "2aab0376d659f33f",
+        "parentUid" : "cf1199c0159e0937894be636b221263f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650593682384,
+          "stop" : 1650593682385,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf1199c0159e0937894be636b221263f"
+    } ],
+    "uid" : "fe1b28ac1dede092067ed66f480c4046"
+  } ]
+}

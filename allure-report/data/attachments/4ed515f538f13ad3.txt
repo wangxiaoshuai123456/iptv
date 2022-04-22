@@ -1,0 +1,3 @@
+[35mDEBUG   [0m wsp:conftest.py:42 get global_token:0452c10d9c5d9eb3986a68fd8353ee49
+[35mDEBUG   [0m wsp:test_02_EnableServerPage.py:54 
+ token:0452c10d9c5d9eb3986a68fd8353ee49
