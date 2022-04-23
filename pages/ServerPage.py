@@ -1,10 +1,10 @@
+# coding=utf-8
 from time import sleep
 
 import self
 from selenium.webdriver.common.by import By
 
 from pages.pageBase import PageBase
-from api import baseApi
 
 
 class ServerPage(PageBase):
