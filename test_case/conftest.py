@@ -1,3 +1,4 @@
+# coding=utf-8
 import pytest
 from time import sleep
 from selenium import webdriver
