@@ -8,102 +8,26 @@
       "children" : [ {
         "name" : "TestLoginPage",
         "children" : [ {
-          "name" : "test_logining[administrator-123456]",
-          "uid" : "44f873ff4bd64ac2",
+          "name" : "test_login[administrator-123456]",
+          "uid" : "28dd631807234cb4",
           "parentUid" : "d886719b105a296cf58556ba3d06616d",
-          "status" : "passed",
+          "status" : "broken",
           "time" : {
-            "start" : 1650593676974,
-            "stop" : 1650593682328,
-            "duration" : 5354
+            "start" : 1650715574367,
+            "stop" : 1650715574367,
+            "duration" : 0
           },
           "flaky" : false,
           "newFailed" : false,
           "newPassed" : false,
           "newBroken" : false,
-          "retriesCount" : 0,
+          "retriesCount" : 2,
           "retriesStatusChange" : false,
           "parameters" : [ "'123456'", "'administrator'" ]
-        }, {
-          "name" : "test_save_token_cookie",
-          "uid" : "d7df1e48fd5128eb",
-          "parentUid" : "d886719b105a296cf58556ba3d06616d",
-          "status" : "passed",
-          "time" : {
-            "start" : 1650593682354,
-            "stop" : 1650593682355,
-            "duration" : 1
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "newPassed" : false,
-          "newBroken" : false,
-          "retriesCount" : 0,
-          "retriesStatusChange" : false,
-          "parameters" : [ ]
         } ],
         "uid" : "d886719b105a296cf58556ba3d06616d"
       } ],
       "uid" : "e9b2c59276138d3332a5ff3c3b472503"
-    }, {
-      "name" : "test_02_EnableServerPage",
-      "children" : [ {
-        "name" : "TestEnableServerPage",
-        "children" : [ {
-          "name" : "test_get_cookie",
-          "uid" : "2aab0376d659f33f",
-          "parentUid" : "c766568a05657b8999b0fb9306343e0b",
-          "status" : "passed",
-          "time" : {
-            "start" : 1650593682384,
-            "stop" : 1650593682385,
-            "duration" : 1
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "newPassed" : false,
-          "newBroken" : false,
-          "retriesCount" : 0,
-          "retriesStatusChange" : false,
-          "parameters" : [ ]
-        }, {
-          "name" : "test_get_token",
-          "uid" : "4ccf7f03374eb74",
-          "parentUid" : "c766568a05657b8999b0fb9306343e0b",
-          "status" : "passed",
-          "time" : {
-            "start" : 1650593682398,
-            "stop" : 1650593682399,
-            "duration" : 1
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "newPassed" : false,
-          "newBroken" : false,
-          "retriesCount" : 0,
-          "retriesStatusChange" : false,
-          "parameters" : [ ]
-        }, {
-          "name" : "test_enable_server",
-          "uid" : "58f5bc8ced6cc706",
-          "parentUid" : "c766568a05657b8999b0fb9306343e0b",
-          "status" : "passed",
-          "time" : {
-            "start" : 1650593682415,
-            "stop" : 1650593731446,
-            "duration" : 49031
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "newPassed" : false,
-          "newBroken" : false,
-          "retriesCount" : 0,
-          "retriesStatusChange" : false,
-          "parameters" : [ ]
-        } ],
-        "uid" : "c766568a05657b8999b0fb9306343e0b"
-      } ],
-      "uid" : "be45f13aec4f3b86a7a93debd2a92730"
     } ],
     "uid" : "86abcc46617c603d802c3e378b13740e"
   } ]

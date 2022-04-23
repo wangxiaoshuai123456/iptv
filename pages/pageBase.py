@@ -1,34 +1,57 @@
-import unittest
-from time import sleep
-from api.baseApi import log
-from selenium import webdriver
+# coding=utf-8
 
 
+from selenium.webdriver.support.wait import WebDriverWait
+
+from utils import UtilsDriver, log
+
+BASEURL = "http://192.168.1.123"
+global_cookie = {}
+global_token = ''
+
+
+# 定义对象库层基类 用于定位元素
 class PageBase:
-    """所有WEB页面基类"""
-    Firefox_driver = webdriver.Firefox()
-    logger = log()
+    # 初始化获取web驱动
+    def __int__(self):
+        self.logger = log()
+        self.driver = UtilsDriver.get_driver()
+        self.baseurl = BASEURL
+
+    # 定义获取元素的方法
+    def get_element(self, location):
+        wait = WebDriverWait(self.driver, 10, 1)
+        element = wait.until(lambda x: x.find_element(*location))
+        return element
 
 
+# 定义操作层基类 用于操作元素：对文本元素进行 文本输入等操作
+class HandleBase:
 
-    def __init__(self):
-        self.driver = PageBase.Firefox_driver
-        # 获取百度URL
-        self.baseurl = "http://192.168.1.123"
+    def input_text(self, element, text):
+        element.clear()
+        element.send_keys(text)
 
-    def setUp(self) -> None:
-        # 获取firefox驱动
-        # self.driver = webdriver.Firefox()
+    def accept_checkbox(self, element):
+        element.click()
 
-        # 设置窗口最大化
-        self.driver.maximize_window()
 
-        # 设置等待时间
-        self.driver.implicitly_wait(30)
+# 定义处理 cookie token方法
+def set_global_cookie(cookie):
+    global global_cookie
+    global_cookie = cookie
 
-        # # 获取百度URL
-        # self.baseurl = "http://192.168.1.123"
 
-    def tearDown(self) -> None:
-        sleep(1)
-        self.driver.quit()
+def get_global_cookie():
+    global global_cookie
+    return global_cookie
+
+
+def set_global_token(token):
+    global global_token
+    global_token = token
+
+
+def get_global_token():
+    global global_token
+    return global_token

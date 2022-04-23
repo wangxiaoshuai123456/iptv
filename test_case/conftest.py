@@ -1,33 +1,35 @@
 import pytest
 from time import sleep
 from selenium import webdriver
-from api.baseApi import log
 
 global_cookie = {"name": "wsp"}
 global_token = '123456'
 # driver = webdriver.Firefox()
 baseurl = "http://192.168.43.123"
-driver = ''
+driver = None
 
-logger = log()
+
 
 
 @pytest.fixture(scope='module')
 def manager_brower():
     print('前置处理')
-    # 获取firefox驱动
-    global driver
-    driver = webdriver.Firefox()
 
-    # 设置窗口最大化
-    driver.maximize_window()
-    # 设置等待时间
-    driver.implicitly_wait(10)
+    global driver
+    if driver is None:
+        # 获取firefox驱动  
+        driver = webdriver.Firefox()
+        # 设置窗口最大化
+        driver.maximize_window()
+        # 设置等待时间
+        driver.implicitly_wait(10)
 
     yield driver, baseurl
 
     sleep(1)
-    driver.quit()
+    if driver is not None:
+        driver.quit()
+        driver = None
     print('后置处理')
 
 

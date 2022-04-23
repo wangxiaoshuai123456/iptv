@@ -1,51 +1,11 @@
 [ {
-  "uid" : "58f5bc8ced6cc706",
-  "name" : "test_enable_server",
+  "uid" : "28dd631807234cb4",
+  "name" : "test_login[administrator-123456]",
   "time" : {
-    "start" : 1650593682415,
-    "stop" : 1650593731446,
-    "duration" : 49031
+    "start" : 1650715574367,
+    "stop" : 1650715574367,
+    "duration" : 0
   },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d7df1e48fd5128eb",
-  "name" : "test_save_token_cookie",
-  "time" : {
-    "start" : 1650593682354,
-    "stop" : 1650593682355,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2aab0376d659f33f",
-  "name" : "test_get_cookie",
-  "time" : {
-    "start" : 1650593682384,
-    "stop" : 1650593682385,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "44f873ff4bd64ac2",
-  "name" : "test_logining[administrator-123456]",
-  "time" : {
-    "start" : 1650593676974,
-    "stop" : 1650593682328,
-    "duration" : 5354
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4ccf7f03374eb74",
-  "name" : "test_get_token",
-  "time" : {
-    "start" : 1650593682398,
-    "stop" : 1650593682399,
-    "duration" : 1
-  },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 } ]

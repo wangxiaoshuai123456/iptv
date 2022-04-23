@@ -1,2 +1,0 @@
-[35mDEBUG   [0m wsp:conftest.py:35 get global_cookie:{'name': 'PHPSESSID', 'value': '9ui5217p1oqbr9ll0emss4gpl5', 'path': '/', 'domain': '192.168.43.123', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}
-[35mDEBUG   [0m wsp:conftest.py:42 get global_token:0452c10d9c5d9eb3986a68fd8353ee49

@@ -1,5 +1,30 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "AttributeError: 'LoginProxy' object has no attribute 'login_handle'",
+      "children" : [ {
+        "name" : "test_login[administrator-123456]",
+        "uid" : "28dd631807234cb4",
+        "parentUid" : "22b0b00da806b6ad8e129eac35de8ebd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650715574367,
+          "stop" : 1650715574367,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'123456'", "'administrator'" ]
+      } ],
+      "uid" : "22b0b00da806b6ad8e129eac35de8ebd"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
 }

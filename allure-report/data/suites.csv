@@ -1,6 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Apr 22 10:14:42 CST 2022","Fri Apr 22 10:14:42 CST 2022","1","test_case","test_01_LoginPage","TestLoginPage","","","test_save_token_cookie",""
-"passed","Fri Apr 22 10:14:42 CST 2022","Fri Apr 22 10:14:42 CST 2022","1","test_case","test_02_EnableServerPage","TestEnableServerPage","","","test_get_cookie",""
-"passed","Fri Apr 22 10:14:42 CST 2022","Fri Apr 22 10:14:42 CST 2022","1","test_case","test_02_EnableServerPage","TestEnableServerPage","","","test_get_token",""
-"passed","Fri Apr 22 10:14:42 CST 2022","Fri Apr 22 10:15:31 CST 2022","49031","test_case","test_02_EnableServerPage","TestEnableServerPage","","","test_enable_server",""
-"passed","Fri Apr 22 10:14:36 CST 2022","Fri Apr 22 10:14:42 CST 2022","5354","test_case","test_01_LoginPage","TestLoginPage","","","test_logining[administrator-123456]","测试登录"
+"broken","Sat Apr 23 20:06:14 CST 2022","Sat Apr 23 20:06:14 CST 2022","0","test_case","test_01_LoginPage","TestLoginPage","","","test_login[administrator-123456]",""

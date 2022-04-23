@@ -1,11 +1,26 @@
+# coding=utf-8
+from selenium import webdriver
 import logging
 
-cookie = {}
-token = ''
 
+class UtilsDriver:
+    driver = None
 
-def printCookieAndToken():
-    print('api.cookie=%s, api.token=%s' % (cookie, token))
+    # 定义获取web drivier的方法
+    @classmethod
+    def get_driver(cls):
+        if cls.driver is None:
+            cls.driver = webdriver.Firefox()
+            cls.driver.maximize_window()
+            cls.driver.implicitly_wait(10)
+        return cls.driver
+
+    # 定义退出web drivier的方法
+    @classmethod
+    def quit_driver(cls):
+        if cls.driver is not None:
+            cls.get_driver().quit()
+            cls.driver = None
 
 
 def get_info_by_cfg(file_name=''):
@@ -52,6 +67,3 @@ def log():
         logger.addHandler(streamHandler)
 
     return logger
-
-    # logger.removeHandler(fileHander)
-    # logger.removeHandler(streamHandler)

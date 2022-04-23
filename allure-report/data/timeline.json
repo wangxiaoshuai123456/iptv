@@ -4,50 +4,16 @@
   "children" : [ {
     "name" : "USER-20220104VG",
     "children" : [ {
-      "name" : "12332-MainThread",
+      "name" : "13236-MainThread",
       "children" : [ {
-        "name" : "test_enable_server",
-        "uid" : "58f5bc8ced6cc706",
-        "parentUid" : "cf1199c0159e0937894be636b221263f",
-        "status" : "passed",
+        "name" : "test_login[administrator-123456]",
+        "uid" : "6feba516c409643c",
+        "parentUid" : "aa23d68e2a640cd76c0b33ee382d8106",
+        "status" : "broken",
         "time" : {
-          "start" : 1650593682415,
-          "stop" : 1650593731446,
-          "duration" : 49031
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_get_token",
-        "uid" : "4ccf7f03374eb74",
-        "parentUid" : "cf1199c0159e0937894be636b221263f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1650593682398,
-          "stop" : 1650593682399,
+          "start" : 1650715571320,
+          "stop" : 1650715571321,
           "duration" : 1
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_logining[administrator-123456]",
-        "uid" : "44f873ff4bd64ac2",
-        "parentUid" : "cf1199c0159e0937894be636b221263f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1650593676974,
-          "stop" : 1650593682328,
-          "duration" : 5354
         },
         "flaky" : false,
         "newFailed" : false,
@@ -57,14 +23,14 @@
         "retriesStatusChange" : false,
         "parameters" : [ "'123456'", "'administrator'" ]
       }, {
-        "name" : "test_save_token_cookie",
-        "uid" : "d7df1e48fd5128eb",
-        "parentUid" : "cf1199c0159e0937894be636b221263f",
-        "status" : "passed",
+        "name" : "test_login[administrator-123456]",
+        "uid" : "5fdfa470fbb9bff0",
+        "parentUid" : "aa23d68e2a640cd76c0b33ee382d8106",
+        "status" : "broken",
         "time" : {
-          "start" : 1650593682354,
-          "stop" : 1650593682355,
-          "duration" : 1
+          "start" : 1650715568013,
+          "stop" : 1650715568013,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
@@ -72,26 +38,26 @@
         "newBroken" : false,
         "retriesCount" : 0,
         "retriesStatusChange" : false,
-        "parameters" : [ ]
+        "parameters" : [ "'123456'", "'administrator'" ]
       }, {
-        "name" : "test_get_cookie",
-        "uid" : "2aab0376d659f33f",
-        "parentUid" : "cf1199c0159e0937894be636b221263f",
-        "status" : "passed",
+        "name" : "test_login[administrator-123456]",
+        "uid" : "28dd631807234cb4",
+        "parentUid" : "aa23d68e2a640cd76c0b33ee382d8106",
+        "status" : "broken",
         "time" : {
-          "start" : 1650593682384,
-          "stop" : 1650593682385,
-          "duration" : 1
+          "start" : 1650715574367,
+          "stop" : 1650715574367,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
+        "retriesCount" : 2,
         "retriesStatusChange" : false,
-        "parameters" : [ ]
+        "parameters" : [ "'123456'", "'administrator'" ]
       } ],
-      "uid" : "cf1199c0159e0937894be636b221263f"
+      "uid" : "aa23d68e2a640cd76c0b33ee382d8106"
     } ],
     "uid" : "fe1b28ac1dede092067ed66f480c4046"
   } ]
