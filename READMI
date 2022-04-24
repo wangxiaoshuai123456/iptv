@@ -2,7 +2,7 @@
 
 iptv 介绍
 {本文章为 iptv web管理员端UI界面的自动化测试文档}
-
+window10
 开发环境：
 Git服务器URL: https://gitee.com/shuaipengwang/web.git
 firefox版本: 99.0.1 (64 位)
@@ -43,6 +43,19 @@ testpaths = ./test_case
 python_files = test_*.py
 python_classes = Test*
 python_functions = test_*
+
+
+
+linux
+开发环境：
+platform linux2 -- Python 2.7.5, pytest-4.6.11, py-1.11.0, pluggy-0.13.1 -- /bin/python
+cachedir: .pytest_cache
+metadata: {'Python': '2.7.5', 'Platform': 'Linux-3.10.0-514.ky3.kb3.x86_64-x86_64-with-redhat-3.3.1703-Core', 'Packages': {'py': '1.11.0', 'pytest': '4.6.11', 'pluggy': '0.13.1'}, 'JAVA_HOME': '/usr/java/jdk1.8.0_311-amd64', 'Plugins': {u'ordering': u'0.6', u'allure-pytest': u'2.9.43', u'rerunfailures': u'5.0', u'html': u'1.22.1', u'mock': u'2.0.0', u'metadata': u'1.11.0'}}
+rootdir: /root/jenkins-auto-test-build, inifile: pytest.ini, testpaths: ./test_case
+plugins: allure-pytest-2.9.43, ordering-0.6, metadata-1.11.0, html-1.22.1, mock-2.0.0, rerunfailures-5.0
+
+
+
 
 
 
