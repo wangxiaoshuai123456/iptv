@@ -4,16 +4,16 @@
   "children" : [ {
     "name" : "USER-20220104VG",
     "children" : [ {
-      "name" : "9988-MainThread",
+      "name" : "16208-MainThread",
       "children" : [ {
         "name" : "test_login[administrator-123456]",
-        "uid" : "74a214934eec059e",
-        "parentUid" : "56eb6b1087a8204c8f37612dffb99163",
+        "uid" : "859b40145f177570",
+        "parentUid" : "c5a8ed639b3257bec96fbed3d6f3b36c",
         "status" : "passed",
         "time" : {
-          "start" : 1650769892619,
-          "stop" : 1650769895242,
-          "duration" : 2623
+          "start" : 1650792010207,
+          "stop" : 1650792012866,
+          "duration" : 2659
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,7 +23,7 @@
         "retriesStatusChange" : false,
         "parameters" : [ "'123456'", "'administrator'" ]
       } ],
-      "uid" : "56eb6b1087a8204c8f37612dffb99163"
+      "uid" : "c5a8ed639b3257bec96fbed3d6f3b36c"
     } ],
     "uid" : "fe1b28ac1dede092067ed66f480c4046"
   } ]

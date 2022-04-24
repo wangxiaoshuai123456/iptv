@@ -9,13 +9,13 @@
         "name" : "TestLoginPage",
         "children" : [ {
           "name" : "test_login[administrator-123456]",
-          "uid" : "74a214934eec059e",
+          "uid" : "859b40145f177570",
           "parentUid" : "89e901b2b2735eb81849a7c9f42af49a",
           "status" : "passed",
           "time" : {
-            "start" : 1650769892619,
-            "stop" : 1650769895242,
-            "duration" : 2623
+            "start" : 1650792010207,
+            "stop" : 1650792012866,
+            "duration" : 2659
           },
           "flaky" : false,
           "newFailed" : false,

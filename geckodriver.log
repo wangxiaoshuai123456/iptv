@@ -143,3 +143,25 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 ###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
 
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Administrator\AppData\Local\Temp\rust_mozprofileduekPo\protections.sqlite
+1650792001052	geckodriver	INFO	Listening on 127.0.0.1:61265
+1650792004090	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61266" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile2W2ehF"
+1650792005117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile2W2ehF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61266/devtools/browser/e98367e6-15c4-4515-b108-ed4b940c7b75
+1650792007969	Marionette	INFO	Listening on port 61280
+1650792008014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.43.123"
+1650792017882	Marionette	INFO	Stopped listening on port 61280
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Administrator\AppData\Local\Temp\rust_mozprofile2W2ehF\protections.sqlite
+1650798279253	geckodriver	INFO	Listening on 127.0.0.1:49548
+1650798282322	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49549" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileglzjBL"
+1650798282879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileglzjBL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49549/devtools/browser/1c401c0c-aaaa-47bb-bf8d-8a8fa6d96352
+1650798286200	Marionette	INFO	Listening on port 49557
+1650798286705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session

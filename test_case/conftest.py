@@ -2,6 +2,8 @@
 import pytest
 from time import sleep
 from selenium import webdriver
+import os
+import sys
 
 global_cookie = {"name": "wsp"}
 global_token = '123456'
@@ -9,7 +11,8 @@ global_token = '123456'
 baseurl = "http://192.168.43.123"
 driver = None
 
-
+# sys.path.append('/root/jenkins-auto-test-build')
+# sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '.')))
 
 
 @pytest.fixture(scope='module')
