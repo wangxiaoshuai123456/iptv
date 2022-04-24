@@ -4,30 +4,30 @@
   "children" : [ {
     "name" : "test_case",
     "children" : [ {
-      "name" : "test_01_LoginPage",
+      "name" : "test_LoginPage",
       "children" : [ {
         "name" : "TestLoginPage",
         "children" : [ {
           "name" : "test_login[administrator-123456]",
-          "uid" : "28dd631807234cb4",
-          "parentUid" : "d886719b105a296cf58556ba3d06616d",
-          "status" : "broken",
+          "uid" : "74a214934eec059e",
+          "parentUid" : "89e901b2b2735eb81849a7c9f42af49a",
+          "status" : "passed",
           "time" : {
-            "start" : 1650715574367,
-            "stop" : 1650715574367,
-            "duration" : 0
+            "start" : 1650769892619,
+            "stop" : 1650769895242,
+            "duration" : 2623
           },
           "flaky" : false,
           "newFailed" : false,
           "newPassed" : false,
           "newBroken" : false,
-          "retriesCount" : 2,
+          "retriesCount" : 0,
           "retriesStatusChange" : false,
           "parameters" : [ "'123456'", "'administrator'" ]
         } ],
-        "uid" : "d886719b105a296cf58556ba3d06616d"
+        "uid" : "89e901b2b2735eb81849a7c9f42af49a"
       } ],
-      "uid" : "e9b2c59276138d3332a5ff3c3b472503"
+      "uid" : "4ebe03e5e8ef972818b4779cbafc6a9f"
     } ],
     "uid" : "86abcc46617c603d802c3e378b13740e"
   } ]

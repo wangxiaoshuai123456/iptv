@@ -6,13 +6,12 @@ from selenium.webdriver.common.by import By
 from pages.pageBase import PageBase, HandleBase, set_global_cookie, set_global_token
 
 
-
 # 定义对象库层类
 class LoginPage(PageBase):
     """登录页面"""
 
     def __init__(self):
-        super().__init__()
+        # super().__init__()
         # 打开登录界面
 
         self.driver.get(self.baseurl + '/#/login')
@@ -45,9 +44,11 @@ class LoginPage(PageBase):
 
 # 定义操作层类
 class LoginHandle(HandleBase):
+    login_page = LoginPage()
 
-    def __int__(self):
-        self.login_page = LoginPage()
+    def __init__(self):
+        # self.login_page = LoginPage()
+        pass
 
     # 输入用户名
     def input_userName(self, userName):
@@ -82,29 +83,24 @@ class LoginHandle(HandleBase):
             return False
 
 
-class Object:
-    name = 'asda'
-
-    def getname(self):
-        return self.name
-
-
 # 定义业务层类
 class LoginProxy:
     login_handle = None
 
     def __int__(self):
-        self.addr = 'beijing'
         # self.login_handle = LoginHandle()
+        pass
 
     # 登录功能
     def login(self, userName, passWord):
-        text = self.addr
+        self.login_handle = LoginHandle()
 
-        # self.login_handle.input_userName(userName)
-        # self.login_handle.input_passWord(passWord)
-        # self.login_handle.accept_checkbox_rememberPassWord()
-        # self.login_handle.click_loginButton()
-        # # 检查是否登录成功
-        # ret = self.login_handle.check_login_status()
+        self.login_handle.input_userName(userName)
+        self.login_handle.input_passWord(passWord)
+        sleep(1)
+        self.login_handle.accept_checkbox_rememberPassWord()
+        sleep(1)
+        self.login_handle.click_loginButton()
+        # 检查是否登录成功
+        ret = self.login_handle.check_login_status()
         return '首页'

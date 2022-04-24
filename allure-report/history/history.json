@@ -1,21 +1,20 @@
 {
-  "abfd8f03e5a812de8e614eb9a4233489" : {
+  "da9606b16e5d2119b4aa14126f25551d" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "28dd631807234cb4",
-      "status" : "broken",
-      "statusDetails" : "AttributeError: 'LoginProxy' object has no attribute 'login_handle'",
+      "uid" : "74a214934eec059e",
+      "status" : "passed",
       "time" : {
-        "start" : 1650715574367,
-        "stop" : 1650715574367,
-        "duration" : 0
+        "start" : 1650769892619,
+        "stop" : 1650769895242,
+        "duration" : 2623
       }
     } ]
   }

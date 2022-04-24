@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Sat Apr 23 20:06:14 CST 2022","Sat Apr 23 20:06:14 CST 2022","0","test_case","test_01_LoginPage","TestLoginPage","","","test_login[administrator-123456]",""
+"passed","Sun Apr 24 11:11:32 CST 2022","Sun Apr 24 11:11:35 CST 2022","2623","test_case","test_LoginPage","TestLoginPage","","","test_login[administrator-123456]",""

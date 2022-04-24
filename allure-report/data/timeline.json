@@ -4,60 +4,26 @@
   "children" : [ {
     "name" : "USER-20220104VG",
     "children" : [ {
-      "name" : "13236-MainThread",
+      "name" : "9988-MainThread",
       "children" : [ {
         "name" : "test_login[administrator-123456]",
-        "uid" : "6feba516c409643c",
-        "parentUid" : "aa23d68e2a640cd76c0b33ee382d8106",
-        "status" : "broken",
+        "uid" : "74a214934eec059e",
+        "parentUid" : "56eb6b1087a8204c8f37612dffb99163",
+        "status" : "passed",
         "time" : {
-          "start" : 1650715571320,
-          "stop" : 1650715571321,
-          "duration" : 1
+          "start" : 1650769892619,
+          "stop" : 1650769895242,
+          "duration" : 2623
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
         "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "'123456'", "'administrator'" ]
-      }, {
-        "name" : "test_login[administrator-123456]",
-        "uid" : "5fdfa470fbb9bff0",
-        "parentUid" : "aa23d68e2a640cd76c0b33ee382d8106",
-        "status" : "broken",
-        "time" : {
-          "start" : 1650715568013,
-          "stop" : 1650715568013,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "'123456'", "'administrator'" ]
-      }, {
-        "name" : "test_login[administrator-123456]",
-        "uid" : "28dd631807234cb4",
-        "parentUid" : "aa23d68e2a640cd76c0b33ee382d8106",
-        "status" : "broken",
-        "time" : {
-          "start" : 1650715574367,
-          "stop" : 1650715574367,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
         "retriesStatusChange" : false,
         "parameters" : [ "'123456'", "'administrator'" ]
       } ],
-      "uid" : "aa23d68e2a640cd76c0b33ee382d8106"
+      "uid" : "56eb6b1087a8204c8f37612dffb99163"
     } ],
     "uid" : "fe1b28ac1dede092067ed66f480c4046"
   } ]

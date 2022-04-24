@@ -5,18 +5,23 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 from utils import UtilsDriver, log
 
-BASEURL = "http://192.168.1.123"
+BASEURL = "http://192.168.43.123"
 global_cookie = {}
 global_token = ''
 
 
 # 定义对象库层基类 用于定位元素
 class PageBase:
+    logger = log()
+    driver = UtilsDriver.get_driver()
+    baseurl = BASEURL
+
     # 初始化获取web驱动
-    def __int__(self):
-        self.logger = log()
-        self.driver = UtilsDriver.get_driver()
-        self.baseurl = BASEURL
+    # def __int__(self):
+    #     # self.logger = log()
+    #     # self.driver = UtilsDriver.get_driver()
+    #     # self.baseurl = BASEURL
+    #     pass
 
     # 定义获取元素的方法
     def get_element(self, location):

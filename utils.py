@@ -67,3 +67,4 @@ def log():
         logger.addHandler(streamHandler)
 
     return logger
+
