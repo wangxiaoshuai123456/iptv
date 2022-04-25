@@ -5,7 +5,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 from utils import UtilsDriver, log
 
-BASEURL = "http://192.168.43.123"
+# BASEURL = "http://192.168.43.123"
+BASEURL = "http://127.0.0.1"
 global_cookie = {}
 global_token = ''
 

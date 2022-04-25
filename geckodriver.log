@@ -165,3 +165,11 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:49549/devtools/browser/1c401c0c-aaaa-47bb-bf8d-8a8fa6d96352
 1650798286200	Marionette	INFO	Listening on port 49557
 1650798286705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650809491848	Marionette	INFO	Stopped listening on port 49557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
