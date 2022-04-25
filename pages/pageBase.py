@@ -30,6 +30,23 @@ class PageBase:
         element = wait.until(lambda x: x.find_element(*location))
         return element
 
+    def import_cookie_token(self):
+        """测试启用禁用服务"""
+
+        # 打印cookie token的值
+        # logger.debug('\ncookie :%s\n  token:%s' % (TestEnableServerPage.cookie, TestEnableServerPage.token))
+
+        # 1 初始化配置 cookie and token   '/#/login'
+        # TestEnableServerPage.driver.get(TestEnableServerPage.baseurl + '/#/001base/base')
+        self.driver.get(self.baseurl + '/#/login')
+        # 添加cookie
+        self.driver.add_cookie(get_global_cookie())
+        # 添加token
+        js_token = 'sessionStorage.setItem("token", "' + get_global_token() + '")'
+
+        self.driver.execute_script(js_token)
+
+
 
 # 定义操作层基类 用于操作元素：对文本元素进行 文本输入等操作
 class HandleBase:
