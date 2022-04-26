@@ -119,7 +119,7 @@ class ServerProxy:
 
     def enable_servers(self):
         # 打开服务页面
-        self.driver.get(self.baseurl + '/#/001base/service/servs')
+        self.handle_server.server_page.driver.get(self.baseurl + '/#/001base/service/servs')
         ret = True
         for server in self.serverInfos:
             self.handle_server.click_server_checkbox(server["serverPath"])
