@@ -10,10 +10,13 @@ BASEURL = "http://127.0.0.1"
 global_cookie = {}
 global_token = ''
 
+driver = None
+
 
 # 定义对象库层基类 用于定位元素
 class PageBase:
     logger = log()
+
     driver = UtilsDriver.get_driver()
     baseurl = BASEURL
 

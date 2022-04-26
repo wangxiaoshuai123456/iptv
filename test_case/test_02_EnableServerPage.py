@@ -21,7 +21,7 @@ class TestEnableServerPage:
 
     def teardown_class(self):
         sleep(5)
-        UtilsDriver.quit_driver()
+        # UtilsDriver.quit_driver()
 
     @pytest.mark.run(order=2)
     def test_disble_server(self):

@@ -17,10 +17,10 @@ class ServerPage(PageBase):
         # super().__init__()
         # 打开登录界面
 
-        #导入cookie token
-        self.import_cookie_token()
-        # 打开服务页面
-        self.driver.get(self.baseurl + '/#/001base/service/servs')
+        # #导入cookie token
+        # self.import_cookie_token()
+        # # 打开服务页面
+        # self.driver.get(self.baseurl + '/#/001base/service/servs')
 
         # 下线按钮
         self.OffLineButton = By.XPATH, "//div/div/div[2]/div[2]/section/div/div/div[1]/button[5]/span"
@@ -102,6 +102,12 @@ class ServerProxy:
 
 
     def disable_servers(self):
+
+        #导入cookie token
+        self.handle_server.server_page.import_cookie_token()
+        # 打开服务页面
+        self.handle_server.server_page.driver.get(self.baseurl + '/#/001base/service/servs')
+
         ret = True
         for server in self.serverInfos:
             self.handle_server.click_server_checkbox(server["serverPath"])
@@ -112,6 +118,8 @@ class ServerProxy:
         return ret
 
     def enable_servers(self):
+        # 打开服务页面
+        self.driver.get(self.baseurl + '/#/001base/service/servs')
         ret = True
         for server in self.serverInfos:
             self.handle_server.click_server_checkbox(server["serverPath"])

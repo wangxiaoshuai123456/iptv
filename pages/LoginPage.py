@@ -7,7 +7,8 @@ from time import sleep
 
 from selenium.webdriver.common.by import By
 
-from pages.pageBase import PageBase, HandleBase, set_global_cookie, set_global_token
+from pages.pageBase import PageBase, HandleBase, set_global_cookie, set_global_token, get_global_cookie, \
+    get_global_token
 
 
 # 定义对象库层类
@@ -78,10 +79,13 @@ class LoginHandle(HandleBase):
             for cookie in cookies:
                 if cookie['name'] == 'PHPSESSID':
                     set_global_cookie(cookie)
+                    value1 = get_global_cookie()
+
                     break
             # #  提取token 保存
             token = self.driver.login_page.execute_script('return sessionStorage.getItem("token");')
             set_global_token(token)
+            value1 = get_global_token()
             return True
         else:
             return False
