@@ -10,22 +10,22 @@ BASEURL = "http://127.0.0.1"
 global_cookie = {}
 global_token = ''
 
-driver = None
+# driver = None
 
 
 # 定义对象库层基类 用于定位元素
 class PageBase:
-    logger = log()
-
-    driver = UtilsDriver.get_driver()
-    baseurl = BASEURL
+    # logger = log()
+    #
+    # driver = UtilsDriver.get_driver()
+    # baseurl = BASEURL
 
     # 初始化获取web驱动
-    # def __int__(self):
-    #     # self.logger = log()
-    #     # self.driver = UtilsDriver.get_driver()
-    #     # self.baseurl = BASEURL
-    #     pass
+    def __int__(self):
+        self.logger = log()
+        self.driver = UtilsDriver.get_driver()
+        self.baseurl = BASEURL
+
 
     # 定义获取元素的方法
     def get_element(self, location):
