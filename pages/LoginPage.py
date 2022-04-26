@@ -16,7 +16,8 @@ class LoginPage(PageBase):
     """登录页面"""
 
     def __init__(self):
-        super(LoginPage, self).__init__()
+        # super(LoginPage, self).__init__()
+        PageBase.__init__(self)
         #打开登录界面
 
         self.driver.get(self.baseurl + '/#/login')
@@ -49,11 +50,10 @@ class LoginPage(PageBase):
 
 # 定义操作层类
 class LoginHandle(HandleBase):
-    login_page = LoginPage()
+    # login_page = LoginPage()
 
     def __init__(self):
         self.login_page = LoginPage()
-        pass
 
     # 输入用户名
     def input_userName(self, userName):
@@ -97,7 +97,6 @@ class LoginProxy:
 
     def __int__(self):
         self.login_handle = LoginHandle()
-        pass
 
     # 登录功能
     def login(self, userName, passWord):
